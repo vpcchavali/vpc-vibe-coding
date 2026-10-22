@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+BNB_Co_SOP_Prototype.sqlite
